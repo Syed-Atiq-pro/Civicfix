@@ -1,0 +1,8 @@
+{
+  "name": "CivicFix AI",
+  "description": "Smart civic issue reporting and tracking platform with glassmorphic UI and on-device AI classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
